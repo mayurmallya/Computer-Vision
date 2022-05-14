@@ -1,5 +1,7 @@
 # Computer-Vision
 
+Projects date back to Spring 2020.
+
 Implemented classical CV algorithms using MATLAB as part of the Computer Vision course at SFU. This repository contains the codes for the following projects-
 
 - Image filtering and Hough transform- [report](https://drive.google.com/file/d/1QqBbcHZGs7zhz3CrfCdCA7E6ke2NNC-c/view?usp=sharing)
